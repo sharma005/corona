@@ -97,6 +97,11 @@
     margin-top: 20px;
     padding-top: 20px;
  }
+
+ .footer p{
+     
+     margin-bottom: 0px;
+ }
  .foot_top a
  {
      margin-left: 200px ;
